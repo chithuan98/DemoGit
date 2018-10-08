@@ -1,0 +1,2 @@
+C:\Users\kasss\Desktop\testgit\DemoGit\DemoGit\DemoGit\obj\Debug\DemoGit.csprojAssemblyReference.cache
+C:\Users\kasss\Desktop\testgit\DemoGit\DemoGit\DemoGit\obj\Debug\DemoGit.csproj.CoreCompileInputs.cache
